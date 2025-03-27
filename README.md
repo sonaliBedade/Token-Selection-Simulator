@@ -1,5 +1,8 @@
 # Token-Selection-Simulator
+
 This is an interactive Token Sampling Simulator built using Streamlit. The application allows users to experiment with different sampling techniques used in language models (LLMs) to generate text.
+
+Access the app here - https://token-selection-sampling-methods.streamlit.app/
 
 Sampling Techniques:
 - Greedy Search
