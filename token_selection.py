@@ -91,6 +91,8 @@ def best_of_n_sampling(vocabulary, n=5):
 st.title("Token Sampling Simulator")
 st.write("Explore different token sampling techniques.")
 
+st.write("The traveler decided to ...")
+
 # Select a sampling technique
 sampling_method = st.selectbox("Choose a sampling method:", [
     "Greedy Search", "Beam Search", "Simple Random Sampling",
